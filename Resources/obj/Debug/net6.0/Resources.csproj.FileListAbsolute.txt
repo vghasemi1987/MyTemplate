@@ -1,0 +1,12 @@
+D:\Code\ZTest\14010813\Template\Resources\bin\Debug\net6.0\Resources.deps.json
+D:\Code\ZTest\14010813\Template\Resources\bin\Debug\net6.0\Resources.dll
+D:\Code\ZTest\14010813\Template\Resources\bin\Debug\net6.0\Resources.pdb
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\Resources.csproj.AssemblyReference.cache
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\Resources.AssemblyInfoInputs.cache
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\Resources.AssemblyInfo.cs
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\Resources.csproj.CoreCompileInputs.cache
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\Resources.dll
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\refint\Resources.dll
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\Resources.pdb
+D:\Code\ZTest\14010813\Template\Resources\obj\Debug\net6.0\ref\Resources.dll

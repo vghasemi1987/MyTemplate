@@ -1,0 +1,38 @@
+{
+	"version": "1.0",
+	"defaultProvider": "cdnjs",
+	"libraries": [
+		{
+			"library": "jquery@3.6.0",
+			"destination": "wwwroot/lib/jquery/"
+		},
+		{
+			"library": "bootstrap@5.2.2",
+			"destination": "wwwroot/lib/bootstrap/"
+		},
+		{
+			"library": "bootstrap-icons@1.9.1",
+			"destination": "wwwroot/lib/bootstrap-icons/"
+		},
+		{
+			"provider": "cdnjs",
+			"library": "jquery-validate@1.19.5",
+			"destination": "wwwroot/lib/jquery-validate/"
+		},
+		{
+			"provider": "cdnjs",
+			"library": "jquery-validation-unobtrusive@4.0.0",
+			"destination": "wwwroot/lib/jquery-validation-unobtrusive/"
+		},
+		{
+			"provider": "cdnjs",
+			"library": "toastr.js@2.1.4",
+			"destination": "wwwroot/lib/toastr.js/"
+		},
+		{
+			"provider": "cdnjs",
+			"library": "tinymce@6.2.0",
+			"destination": "wwwroot/lib/tinymce/"
+		}
+	]
+}
